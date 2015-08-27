@@ -1,0 +1,9 @@
+{
+	"modelId": "01oRGQ6YxaCQ",
+	"modelName": "Test",
+	"devices": [
+		"231c29b236a7c9ee"
+	],
+	"deviceFile": "test.device.nut",
+	"agentFile": "test.agent.nut"
+}
