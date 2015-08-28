@@ -1,2 +1,2 @@
-server.log("Hello Brandon");
+server.log("Hello from the agent!");
 
